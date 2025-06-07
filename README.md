@@ -3,14 +3,14 @@ This is a partial public disclosure of our collected rehabilitation exercise dat
 
 ## Rehabilitaion exercise
 
-![本地绝对路径](C:\Users\lijunjie\WPSDrive\1629289554_1\WPS企业云盘\西北工业大学\我的企业文档\a_dr_master\mon\JOC\pics\pic1.jpg)
+![本地路径](.\pics\process.png)
 
 
 
 
 ## Partial Movement Description
 
-![本地绝对路径](C:\Users\lijunjie\WPSDrive\1629289554_1\WPS企业云盘\西北工业大学\我的企业文档\a_dr_master\mon\JOC\SC_rebuttle\a.png) 
+![本地路径](.\pics\data.png) 
 
 
 
