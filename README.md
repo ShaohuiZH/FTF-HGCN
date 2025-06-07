@@ -3,14 +3,14 @@ This is a partial public disclosure of our collected rehabilitation exercise dat
 
 ## Rehabilitaion exercise
 
-![本地路径](.\pics\process.png)
+![image](./pics/process.png)
 
 
 
 
 ## Partial Movement Description
 
-![本地路径](.\pics\data.png) 
+![image](./pics/data.png) 
 
 
 
