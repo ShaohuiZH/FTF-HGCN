@@ -14,10 +14,6 @@ This is a partial public disclosure of our collected rehabilitation exercise dat
 
 
 
-## Acknowledgements
-
-Thanks to the First Affiliated Hospital of Zhengzhou University for their support and cooperation in our rehabilitation exercise data collection.
-
 ## Contact Us
 
 If you have any questions, please contact us:  
