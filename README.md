@@ -1,5 +1,5 @@
 # FTF-HGCN
-This is a partial public disclosure of our collected rehabilitation exercise data, with all data will be released soon.
+This is a partial public disclosure of our collected rehabilitation exercise data, with the data still being refined.
 
 ## Rehabilitaion exercise
 
